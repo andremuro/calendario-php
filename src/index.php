@@ -16,15 +16,8 @@
   $calendar = new Calendar();
   $calendar->startTable();
   $calendar->setHeader();
-  $calendar->setLine();
-  $calendar->setLine();
-  $calendar->setLine();
-  $calendar->setLine();
-  $calendar->setLine();
+  echo $calendar->setCalendar();
   $calendar->endTable();
-
-
-
 
   ?>
 </body>
