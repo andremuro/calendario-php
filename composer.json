@@ -1,0 +1,15 @@
+{
+    "name": "andre/calendario-php",
+    "autoload": {
+        "psr-4": {
+            "Repository\\Calendar\\": "src/repository/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andremuro",
+            "email": "andrefelipe.muro@gmail.com"
+        }
+    ],
+    "require": {}
+}
