@@ -1,7 +1,6 @@
 <?php
 
-namespace Repository\Calendar;
-use Repository\Calendar\Table;
+namespace Calendar\Repository;
 
 class Calendar extends Table 
 {

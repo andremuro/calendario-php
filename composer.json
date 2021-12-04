@@ -2,7 +2,7 @@
     "name": "andre/calendario-php",
     "autoload": {
         "psr-4": {
-            "Repository\\Calendar\\": "src/repository/"
+            "Calendar\\Repository\\": "src/repository/"
         }
     },
     "authors": [
