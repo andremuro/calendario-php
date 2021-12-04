@@ -23,6 +23,7 @@ class Calendar extends Table
       }
       $day++;
     }
+    $calendar .= $this->setLine($week);
     return $calendar;
   }
   /**
