@@ -6,5 +6,5 @@ $vendorDir = dirname(dirname(__FILE__));
 $baseDir = dirname($vendorDir);
 
 return array(
-    'Calendar\\Repository\\' => array($baseDir . '/src/repository'),
+    'Calendar\\Repository\\' => array($baseDir . '/src/repository/v2'),
 );
