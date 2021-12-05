@@ -16,7 +16,7 @@ class ComposerStaticInit863953d8ffc59ed8003bbc1352a68d05
     public static $prefixDirsPsr4 = array (
         'Calendar\\Repository\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src/repository',
+            0 => __DIR__ . '/../..' . '/src/repository/v2',
         ),
     );
 
