@@ -11,7 +11,7 @@
   <?php
 
   require "../vendor/autoload.php";
-  use Calendar\Repository\Calendar;
+  use Calendar\Class\Calendar;
 
   $calendar = new Calendar();
   //$calendar->startTable();

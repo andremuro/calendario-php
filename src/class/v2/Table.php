@@ -1,6 +1,6 @@
 <?php
 
-namespace Calendar\Repository;
+namespace Calendar\Class;
 
 class Table 
 {

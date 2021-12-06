@@ -9,14 +9,14 @@ class ComposerStaticInit863953d8ffc59ed8003bbc1352a68d05
     public static $prefixLengthsPsr4 = array (
         'C' => 
         array (
-            'Calendar\\Repository\\' => 20,
+            'Calendar\\Class\\' => 15,
         ),
     );
 
     public static $prefixDirsPsr4 = array (
-        'Calendar\\Repository\\' => 
+        'Calendar\\Class\\' => 
         array (
-            0 => __DIR__ . '/../..' . '/src/repository/v2',
+            0 => __DIR__ . '/../..' . '/src/class/v2',
         ),
     );
 
